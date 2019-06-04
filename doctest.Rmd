@@ -1,6 +1,8 @@
 ---
-title: "test markdown1"
-output: html_document
+title: "Habits"
+author: John Doe
+date: March 22, 2005
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
